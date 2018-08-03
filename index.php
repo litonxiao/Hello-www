@@ -8,7 +8,7 @@
 
 <body>
 <script type="text/javascript">
-	document.write("Hello World!<br> Hello WWW !")
+	document.write("Hello World!<br> Hello WWW ")
 </script>
 <br>
 <?php
